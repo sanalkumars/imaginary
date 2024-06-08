@@ -4,8 +4,8 @@ import React from 'react'
 const HomePage = () => {
   return (
     <div>
-      <UserButton  afterSignOutUrl='/'/>
-      <h2>hello</h2>
+      
+      <h2>hello welcome to home page</h2>
     </div>
   )
 }
