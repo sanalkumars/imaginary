@@ -7,6 +7,9 @@ const protectedRoutes = createRouteMatcher([
     '/transformations'
 
 ])
+const publicRoutes = createRouteMatcher([
+  '/api/webhooks/clerk',   
+]);
 
 const publiRoutes =[ '/api/webhooks/clerk']
 
